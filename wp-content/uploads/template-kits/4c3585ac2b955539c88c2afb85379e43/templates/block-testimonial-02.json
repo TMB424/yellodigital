@@ -1,0 +1,304 @@
+{
+    "version": "0.4",
+    "title": "Block &#8211; Testimonial 02",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1"
+    },
+    "content": [
+        {
+            "id": "e5a89d3",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "0",
+                    "bottom": "6",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "content_position": "middle",
+                "background_background": "classic",
+                "background_color": "#FE5E33",
+                "gap": "wider",
+                "background_image": {
+                    "url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/patter.jpg",
+                    "id": 143
+                },
+                "background_position": "center center",
+                "background_size": "auto",
+                "background_overlay_background": "gradient",
+                "background_overlay_color": "rgba(255, 78, 31, 0.97)",
+                "background_overlay_color_b": "rgba(254, 94, 51, 0.91)",
+                "background_overlay_gradient_angle": {
+                    "unit": "deg",
+                    "size": 90,
+                    "sizes": []
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "1",
+                    "bottom": "5",
+                    "left": "1",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "42aaa805",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 33.246,
+                        "_inline_size_tablet": 100,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "24c47809",
+                            "settings": {
+                                "title": "Strusted many Student",
+                                "align": "left",
+                                "typography_typography": "custom",
+                                "title_color": "rgba(255, 255, 255, 0.9)",
+                                "typography_font_weight": "500",
+                                "typography_text_transform": "uppercase",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_background_background": "classic",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "header_size": "h6",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "149c03eb",
+                            "settings": {
+                                "title": "Success Testimonial",
+                                "align": "left",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 62,
+                                    "sizes": []
+                                },
+                                "title_color": "#FFFFFF",
+                                "typography_font_family": "Karla",
+                                "typography_font_weight": "bold",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -5,
+                                    "sizes": []
+                                },
+                                "_z_index": 3,
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 54,
+                                    "sizes": []
+                                },
+                                "header_size": "h3",
+                                "align_mobile": "center",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "40a9acfa",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-quote-right",
+                                    "library": "fa-solid"
+                                },
+                                "primary_color": "rgba(255, 198, 65, 0.3)",
+                                "size": {
+                                    "unit": "px",
+                                    "size": 300,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -147,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 5,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "66add89d",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 66.754,
+                        "_inline_size_tablet": 100,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "c896516",
+                            "settings": {
+                                "testimonial_content": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire.",
+                                "testimonial_name": "Tyler Ibarra",
+                                "testimonial_job": "Business Man",
+                                "testimonial_alignment": "left",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "content_typography_font_style": "italic",
+                                "name_text_color": "#0B1035",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "job_text_color": "#101847",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "testimonial_image": {
+                                    "url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/attractive-young-businessman-working-with-laptop-CLTWURQ.jpg",
+                                    "id": 136
+                                },
+                                "image_size": {
+                                    "unit": "px",
+                                    "size": 119,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "40",
+                                    "bottom": "30",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "_background_background": "classic",
+                                "_background_color": "#F9FAFF",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_z_index": 3,
+                                "content_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "name_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "name_typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "job_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "22",
+                                    "right": "22",
+                                    "bottom": "22",
+                                    "left": "22",
+                                    "isLinked": true
+                                },
+                                "content_typography_font_weight": "normal",
+                                "content_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "name_typography_font_weight": "bold"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

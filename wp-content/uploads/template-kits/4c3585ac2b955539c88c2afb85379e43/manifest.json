@@ -1,0 +1,1925 @@
+{
+    "manifest_version": "1.0.6",
+    "title": "Coursly",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/default-kit.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com",
+            "type": "section",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - About 01",
+            "screenshot": "screenshots\/block-about-01.jpg",
+            "source": "templates\/block-about-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-about-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - About 02",
+            "screenshot": "screenshots\/block-about-02.jpg",
+            "source": "templates\/block-about-02.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-about-02\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - About 03",
+            "screenshot": "screenshots\/block-about-03.jpg",
+            "source": "templates\/block-about-03.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-about-03\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Call To Action 01",
+            "screenshot": "screenshots\/block-call-to-action-01.jpg",
+            "source": "templates\/block-call-to-action-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-call-to-action-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Contact 01",
+            "screenshot": "screenshots\/block-contact-01.jpg",
+            "source": "templates\/block-contact-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-contact-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - FAQ 01",
+            "screenshot": "screenshots\/block-faq-01.jpg",
+            "source": "templates\/block-faq-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-faq-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Features 01",
+            "screenshot": "screenshots\/block-features-01.jpg",
+            "source": "templates\/block-features-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-features-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Features 02",
+            "screenshot": "screenshots\/block-features-02.jpg",
+            "source": "templates\/block-features-02.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-features-02\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Footer 01",
+            "screenshot": "screenshots\/block-footer-01.jpg",
+            "source": "templates\/block-footer-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-footer-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Gallery 01",
+            "screenshot": "screenshots\/block-gallery-01.jpg",
+            "source": "templates\/block-gallery-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-gallery-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Header 01",
+            "screenshot": "screenshots\/block-header-01.jpg",
+            "source": "templates\/block-header-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-header-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Header 02",
+            "screenshot": "screenshots\/block-header-02.jpg",
+            "source": "templates\/block-header-02.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-header-02\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Hero 01",
+            "screenshot": "screenshots\/block-hero-01.jpg",
+            "source": "templates\/block-hero-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-hero-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Hero 02",
+            "screenshot": "screenshots\/block-hero-02.jpg",
+            "source": "templates\/block-hero-02.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-hero-02\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Logo Grid 01",
+            "screenshot": "screenshots\/block-logo-grid-01.jpg",
+            "source": "templates\/block-logo-grid-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-logo-grid-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-logo-grid",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Other 01",
+            "screenshot": "screenshots\/block-other-01.jpg",
+            "source": "templates\/block-other-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-other-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Other 2",
+            "screenshot": "screenshots\/block-other-2.jpg",
+            "source": "templates\/block-other-2.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-other-2\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Other 3",
+            "screenshot": "screenshots\/block-other-3.jpg",
+            "source": "templates\/block-other-3.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-other-3\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Pricing 01",
+            "screenshot": "screenshots\/block-pricing-01.jpg",
+            "source": "templates\/block-pricing-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-pricing-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Stats 01",
+            "screenshot": "screenshots\/block-stats-01.jpg",
+            "source": "templates\/block-stats-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-stats-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-stats",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Team 01",
+            "screenshot": "screenshots\/block-team-01.jpg",
+            "source": "templates\/block-team-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-team-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Testimonial 01",
+            "screenshot": "screenshots\/block-testimonial-01.jpg",
+            "source": "templates\/block-testimonial-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-testimonial-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Testimonial 02",
+            "screenshot": "screenshots\/block-testimonial-02.jpg",
+            "source": "templates\/block-testimonial-02.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/block-testimonial-02\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 01",
+            "screenshot": "screenshots\/homepage-01.jpg",
+            "source": "templates\/homepage-01.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/homepage-01\/",
+            "type": "section",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 01 - Course List",
+            "screenshot": "screenshots\/page-01-course-list.jpg",
+            "source": "templates\/page-01-course-list.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/page-01-course-list\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 02 - Course Detail",
+            "screenshot": "screenshots\/page-02-course-detail.jpg",
+            "source": "templates\/page-02-course-detail.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/page-02-course-detail\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 03 - Membership Plan",
+            "screenshot": "screenshots\/page-03-membership-plan.jpg",
+            "source": "templates\/page-03-membership-plan.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/page-03-membership-plan\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 04 - Instructor list",
+            "screenshot": "screenshots\/page-04-instructor-list.jpg",
+            "source": "templates\/page-04-instructor-list.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/page-04-instructor-list\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 05 - Instructor detail",
+            "screenshot": "screenshots\/page-05-instructor-detail.jpg",
+            "source": "templates\/page-05-instructor-detail.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/page-05-instructor-detail\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 06 - About Us",
+            "screenshot": "screenshots\/page-06-about-us.jpg",
+            "source": "templates\/page-06-about-us.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/page-06-about-us\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 07 - Gallery",
+            "screenshot": "screenshots\/page-07-gallery.jpg",
+            "source": "templates\/page-07-gallery.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/page-07-gallery\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 08 - FAQ",
+            "screenshot": "screenshots\/page-08-faq.jpg",
+            "source": "templates\/page-08-faq.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/page-08-faq\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page 09 - Contact",
+            "screenshot": "screenshots\/page-09-contact.jpg",
+            "source": "templates\/page-09-contact.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/template-kit\/page-09-contact\/",
+            "type": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1"
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Theme Builder \u2013 Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/?elementor_library=theme-builder-footer-elementor-pro",
+            "type": "footer",
+            "metadata": {
+                "template_type": "section-footer",
+                "elementor_pro_required": "1",
+                "include_in_zip": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokopress.com\/coursekit\/?elementor_library=theme-builder-header-elementor-pro",
+            "type": "header",
+            "metadata": {
+                "template_type": "section-header",
+                "elementor_pro_required": "1",
+                "include_in_zip": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "successful-business-team-standing-around-computer-28SJRP5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/successful-business-team-standing-around-computer-28SJRP5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-about-01.json",
+                    "name": "Block - About 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 100737,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-business-team-standing-around-computer-28SJRP5"
+        },
+        {
+            "filename": "coworkers-discussing-business-ideas-PWAASLV.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/coworkers-discussing-business-ideas-PWAASLV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-about-02.json",
+                    "name": "Block - About 02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 71862,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworkers-discussing-business-ideas-PWAASLV"
+        },
+        {
+            "filename": "portrait-of-attractive-young-female-model-smiling-PNW9GL3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/portrait-of-attractive-young-female-model-smiling-PNW9GL3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-about-03.json",
+                    "name": "Block - About 03"
+                },
+                {
+                    "source": "templates\/block-team-01.json",
+                    "name": "Block - Team 01"
+                },
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                },
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                },
+                {
+                    "source": "templates\/page-05-instructor-detail.json",
+                    "name": "Page 05 - Instructor detail"
+                }
+            ],
+            "filesize": 82411,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-attractive-young-female-model-smiling-PNW9GL3"
+        },
+        {
+            "filename": "coworkers-smiling-while-working-P63VJDS.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/coworkers-smiling-while-working-P63VJDS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-call-to-action-01.json",
+                    "name": "Block - Call To Action 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 71791,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworkers-smiling-while-working-P63VJDS"
+        },
+        {
+            "filename": "instructor.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/instructor.png",
+            "templates": [
+                {
+                    "source": "templates\/block-features-01.json",
+                    "name": "Block - Features 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 1019,
+            "dimensions": [
+                72,
+                98
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "success.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/success.png",
+            "templates": [
+                {
+                    "source": "templates\/block-features-01.json",
+                    "name": "Block - Features 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 1138,
+            "dimensions": [
+                87,
+                101
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "laboratory.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/laboratory.png",
+            "templates": [
+                {
+                    "source": "templates\/block-features-01.json",
+                    "name": "Block - Features 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 1105,
+            "dimensions": [
+                95,
+                93
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "advisor.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/advisor.png",
+            "templates": [
+                {
+                    "source": "templates\/block-features-01.json",
+                    "name": "Block - Features 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 1944,
+            "dimensions": [
+                73,
+                113
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "class.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/class.png",
+            "templates": [
+                {
+                    "source": "templates\/block-features-01.json",
+                    "name": "Block - Features 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 973,
+            "dimensions": [
+                85,
+                97
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "event.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/event.png",
+            "templates": [
+                {
+                    "source": "templates\/block-features-01.json",
+                    "name": "Block - Features 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 915,
+            "dimensions": [
+                84,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "coursekit-logo-yellow.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/coursekit-logo-yellow.png",
+            "templates": [
+                {
+                    "source": "templates\/block-footer-01.json",
+                    "name": "Block - Footer 01"
+                },
+                {
+                    "source": "templates\/block-header-01.json",
+                    "name": "Block - Header 01"
+                },
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Footer (Elementor Pro)"
+                },
+                {
+                    "source": "templates\/theme-builder-header-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Header (Elementor Pro)"
+                }
+            ],
+            "filesize": 2634,
+            "dimensions": [
+                91,
+                91
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-H3XPTVZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-H3XPTVZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-gallery-01.json",
+                    "name": "Block - Gallery 01"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 71562,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-H3XPTVZ"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-HYRLA29.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-HYRLA29.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-gallery-01.json",
+                    "name": "Block - Gallery 01"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 58790,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-HYRLA29"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-YZWU57S.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-YZWU57S.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-gallery-01.json",
+                    "name": "Block - Gallery 01"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 88130,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-YZWU57S"
+        },
+        {
+            "filename": "coworkers-working-at-business-office-and-using-94VAKPD.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/coworkers-working-at-business-office-and-using-94VAKPD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-gallery-01.json",
+                    "name": "Block - Gallery 01"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 71063,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworkers-working-at-business-office-and-using-94VAKPD"
+        },
+        {
+            "filename": "friendly-business-team-talking-at-coworking-space-Y8LU63Z.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/friendly-business-team-talking-at-coworking-space-Y8LU63Z.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-gallery-01.json",
+                    "name": "Block - Gallery 01"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 82870,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/friendly-business-team-talking-at-coworking-space-Y8LU63Z"
+        },
+        {
+            "filename": "two-coworkers-working-on-new-business-strategy-YC3AAXP.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/two-coworkers-working-on-new-business-strategy-YC3AAXP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-gallery-01.json",
+                    "name": "Block - Gallery 01"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 80149,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-coworkers-working-on-new-business-strategy-YC3AAXP"
+        },
+        {
+            "filename": "3business-coworkers-discussing-new-ideas-and-ETKXJ9A.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/3business-coworkers-discussing-new-ideas-and-ETKXJ9A.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-gallery-01.json",
+                    "name": "Block - Gallery 01"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 64884,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-coworkers-discussing-new-ideas-and-ETKXJ9A"
+        },
+        {
+            "filename": "3business-women-coworker-discussing-in-a-meeting-Y6NGAUC.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/3business-women-coworker-discussing-in-a-meeting-Y6NGAUC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-gallery-01.json",
+                    "name": "Block - Gallery 01"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 45513,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-women-coworker-discussing-in-a-meeting-Y6NGAUC"
+        },
+        {
+            "filename": "3female-executive-explaining-business-plans-to-his-8NXZLBR.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/3female-executive-explaining-business-plans-to-his-8NXZLBR.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-gallery-01.json",
+                    "name": "Block - Gallery 01"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 56985,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-executive-explaining-business-plans-to-his-8NXZLBR"
+        },
+        {
+            "filename": "coworking-space-for-freelancer-PMYXDJ3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/coworking-space-for-freelancer-PMYXDJ3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-header-02.json",
+                    "name": "Block - Header 02"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 100930,
+            "dimensions": [
+                1024,
+                659
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworking-space-for-freelancer-PMYXDJ3"
+        },
+        {
+            "filename": "company-coworkers-discussing-ideas-and-AENS452.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/company-coworkers-discussing-ideas-and-AENS452.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-hero-01.json",
+                    "name": "Block - Hero 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 95916,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-coworkers-discussing-ideas-and-AENS452"
+        },
+        {
+            "filename": "marketing.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/marketing.png",
+            "templates": [
+                {
+                    "source": "templates\/block-hero-01.json",
+                    "name": "Block - Hero 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 1681,
+            "dimensions": [
+                73,
+                106
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "adwords.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/adwords.png",
+            "templates": [
+                {
+                    "source": "templates\/block-hero-01.json",
+                    "name": "Block - Hero 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 1641,
+            "dimensions": [
+                95,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "copywriting.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/copywriting.png",
+            "templates": [
+                {
+                    "source": "templates\/block-hero-01.json",
+                    "name": "Block - Hero 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 1552,
+            "dimensions": [
+                97,
+                90
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "branding.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/branding.png",
+            "templates": [
+                {
+                    "source": "templates\/block-hero-01.json",
+                    "name": "Block - Hero 01"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 2892,
+            "dimensions": [
+                107,
+                95
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "company-coworkers-discussing-ideas-and-ADNX86J.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/company-coworkers-discussing-ideas-and-ADNX86J.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-hero-02.json",
+                    "name": "Block - Hero 02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                }
+            ],
+            "filesize": 108201,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-coworkers-discussing-ideas-and-ADNX86J"
+        },
+        {
+            "filename": "logo-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/logo-01.png",
+            "templates": [
+                {
+                    "source": "templates\/block-logo-grid-01.json",
+                    "name": "Block - Logo Grid 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 5859,
+            "dimensions": [
+                163,
+                201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "logo-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/logo-02.png",
+            "templates": [
+                {
+                    "source": "templates\/block-logo-grid-01.json",
+                    "name": "Block - Logo Grid 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 3612,
+            "dimensions": [
+                262,
+                104
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "logo-06.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/logo-06.png",
+            "templates": [
+                {
+                    "source": "templates\/block-logo-grid-01.json",
+                    "name": "Block - Logo Grid 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 2406,
+            "dimensions": [
+                241,
+                118
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "logo-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/block-logo-grid-01.json",
+                    "name": "Block - Logo Grid 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 3040,
+            "dimensions": [
+                180,
+                179
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "logo-04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/logo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/block-logo-grid-01.json",
+                    "name": "Block - Logo Grid 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 2014,
+            "dimensions": [
+                306,
+                112
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "portrait-of-happy-businesswoman-business-woman-5W8KU3Z.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/portrait-of-happy-businesswoman-business-woman-5W8KU3Z.png",
+            "templates": [
+                {
+                    "source": "templates\/block-other-01.json",
+                    "name": "Block - Other 01"
+                },
+                {
+                    "source": "templates\/page-02-course-detail.json",
+                    "name": "Page 02 - Course Detail"
+                }
+            ],
+            "filesize": 71753,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-businesswoman-business-woman-5W8KU3Z"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-3X5BRS6-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-3X5BRS6-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-other-01.json",
+                    "name": "Block - Other 01"
+                },
+                {
+                    "source": "templates\/page-02-course-detail.json",
+                    "name": "Page 02 - Course Detail"
+                }
+            ],
+            "filesize": 68136,
+            "dimensions": [
+                1024,
+                399
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-3X5BRS6"
+        },
+        {
+            "filename": "company-coworkers-discussing-ideas-and-VNTZQJP.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/company-coworkers-discussing-ideas-and-VNTZQJP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-other-2.json",
+                    "name": "Block - Other 2"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                }
+            ],
+            "filesize": 81413,
+            "dimensions": [
+                750,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-coworkers-discussing-ideas-and-VNTZQJP"
+        },
+        {
+            "filename": "concentrated-business-team-listening-they-8RUUXYY.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/concentrated-business-team-listening-they-8RUUXYY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-other-2.json",
+                    "name": "Block - Other 2"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                }
+            ],
+            "filesize": 58560,
+            "dimensions": [
+                750,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/concentrated-business-team-listening-they-8RUUXYY"
+        },
+        {
+            "filename": "company-coworkers-discussing-ideas-and-G3CFJ4A.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/company-coworkers-discussing-ideas-and-G3CFJ4A.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-other-2.json",
+                    "name": "Block - Other 2"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                }
+            ],
+            "filesize": 73817,
+            "dimensions": [
+                750,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-coworkers-discussing-ideas-and-G3CFJ4A"
+        },
+        {
+            "filename": "female-executive-explaining-business-plans-to-his-LC56QXE.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/female-executive-explaining-business-plans-to-his-LC56QXE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-other-2.json",
+                    "name": "Block - Other 2"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                }
+            ],
+            "filesize": 53647,
+            "dimensions": [
+                750,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-executive-explaining-business-plans-to-his-LC56QXE"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-CN4ZMYH.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-CN4ZMYH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-other-2.json",
+                    "name": "Block - Other 2"
+                },
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                }
+            ],
+            "filesize": 84102,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-CN4ZMYH"
+        },
+        {
+            "filename": "company-coworkers-discussing-ideas-and-8KHNUVW.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/company-coworkers-discussing-ideas-and-8KHNUVW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-other-2.json",
+                    "name": "Block - Other 2"
+                },
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                }
+            ],
+            "filesize": 87338,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-coworkers-discussing-ideas-and-8KHNUVW"
+        },
+        {
+            "filename": "basic.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/basic.png",
+            "templates": [
+                {
+                    "source": "templates\/block-pricing-01.json",
+                    "name": "Block - Pricing 01"
+                },
+                {
+                    "source": "templates\/page-03-membership-plan.json",
+                    "name": "Page 03 - Membership Plan"
+                }
+            ],
+            "filesize": 2436,
+            "dimensions": [
+                102,
+                102
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "standard.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/standard.png",
+            "templates": [
+                {
+                    "source": "templates\/block-pricing-01.json",
+                    "name": "Block - Pricing 01"
+                },
+                {
+                    "source": "templates\/page-03-membership-plan.json",
+                    "name": "Page 03 - Membership Plan"
+                }
+            ],
+            "filesize": 2385,
+            "dimensions": [
+                88,
+                107
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "premium.png",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/premium.png",
+            "templates": [
+                {
+                    "source": "templates\/block-pricing-01.json",
+                    "name": "Block - Pricing 01"
+                },
+                {
+                    "source": "templates\/page-03-membership-plan.json",
+                    "name": "Page 03 - Membership Plan"
+                }
+            ],
+            "filesize": 1754,
+            "dimensions": [
+                103,
+                75
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pure-line-icons-35G4L6"
+        },
+        {
+            "filename": "portrait-of-smiling-male-school-teacher-standing-7BJLS3R.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/portrait-of-smiling-male-school-teacher-standing-7BJLS3R.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-01.json",
+                    "name": "Block - Team 01"
+                },
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                },
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                }
+            ],
+            "filesize": 64075,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-male-school-teacher-standing-7BJLS3R"
+        },
+        {
+            "filename": "happy-young-woman-portrait-close-up-smiling-with-2RM3KUY.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/happy-young-woman-portrait-close-up-smiling-with-2RM3KUY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-01.json",
+                    "name": "Block - Team 01"
+                },
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                },
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                }
+            ],
+            "filesize": 62304,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-woman-portrait-close-up-smiling-with-2RM3KUY"
+        },
+        {
+            "filename": "portrait-of-smiling-man-working-at-home-7GKRCL3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/portrait-of-smiling-man-working-at-home-7GKRCL3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-01.json",
+                    "name": "Block - Team 01"
+                },
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                }
+            ],
+            "filesize": 73480,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-man-working-at-home-7GKRCL3"
+        },
+        {
+            "filename": "portrait-of-a-happy-young-attractive-female-PWS5L9Y.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/portrait-of-a-happy-young-attractive-female-PWS5L9Y.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-01.json",
+                    "name": "Block - Team 01"
+                },
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                }
+            ],
+            "filesize": 74308,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-happy-young-attractive-female-PWS5L9Y"
+        },
+        {
+            "filename": "portrait-of-young-smiling-man-sitting-on-desk-in-489S3LD.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/portrait-of-young-smiling-man-sitting-on-desk-in-489S3LD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-01.json",
+                    "name": "Block - Team 01"
+                },
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                }
+            ],
+            "filesize": 47963,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-young-smiling-man-sitting-on-desk-in-489S3LD"
+        },
+        {
+            "filename": "patter.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/patter.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonial-01.json",
+                    "name": "Block - Testimonial 01"
+                },
+                {
+                    "source": "templates\/block-testimonial-02.json",
+                    "name": "Block - Testimonial 02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 226146,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/devices-pattern-N5LHAP"
+        },
+        {
+            "filename": "portrait-of-handsome-young-man-smiling-outdoors-7VXLBGB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/portrait-of-handsome-young-man-smiling-outdoors-7VXLBGB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonial-01.json",
+                    "name": "Block - Testimonial 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 60822,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-handsome-young-man-smiling-outdoors-7VXLBGB"
+        },
+        {
+            "filename": "portrait-of-beautiful-smiling-woman-in-living-8HZYM73.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/portrait-of-beautiful-smiling-woman-in-living-8HZYM73.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonial-01.json",
+                    "name": "Block - Testimonial 01"
+                },
+                {
+                    "source": "templates\/page-06-about-us.json",
+                    "name": "Page 06 - About Us"
+                }
+            ],
+            "filesize": 39294,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-beautiful-smiling-woman-in-living-8HZYM73"
+        },
+        {
+            "filename": "attractive-young-businessman-working-with-laptop-CLTWURQ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/attractive-young-businessman-working-with-laptop-CLTWURQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonial-02.json",
+                    "name": "Block - Testimonial 02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage 01"
+                },
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 10498,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-young-businessman-working-with-laptop-CLTWURQ"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-AT6G8HB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-AT6G8HB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                }
+            ],
+            "filesize": 92154,
+            "dimensions": [
+                1024,
+                590
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-AT6G8HB"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-2LW3KS7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-2LW3KS7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                }
+            ],
+            "filesize": 71003,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-2LW3KS7"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-4DNAHC6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-4DNAHC6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-course-list.json",
+                    "name": "Page 01 - Course List"
+                }
+            ],
+            "filesize": 69411,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-4DNAHC6"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-RSPF9LG.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-RSPF9LG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-course-detail.json",
+                    "name": "Page 02 - Course Detail"
+                }
+            ],
+            "filesize": 69976,
+            "dimensions": [
+                1024,
+                664
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-RSPF9LG"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-WM8KJG6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-WM8KJG6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-membership-plan.json",
+                    "name": "Page 03 - Membership Plan"
+                }
+            ],
+            "filesize": 103856,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-WM8KJG6"
+        },
+        {
+            "filename": "woman-explaining-business-strategy-to-coworkers-XQ8DV2A.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/woman-explaining-business-strategy-to-coworkers-XQ8DV2A.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                }
+            ],
+            "filesize": 72842,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-explaining-business-strategy-to-coworkers-XQ8DV2A"
+        },
+        {
+            "filename": "portrait-of-smiling-young-woman-or-teenage-girl-PARNUM4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/portrait-of-smiling-young-woman-or-teenage-girl-PARNUM4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-04-instructor-list.json",
+                    "name": "Page 04 - Instructor list"
+                },
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 20974,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PARNUM4"
+        },
+        {
+            "filename": "cheerful-coworkers-in-office-during-company-KZUJ6F5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/cheerful-coworkers-in-office-during-company-KZUJ6F5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-05-instructor-detail.json",
+                    "name": "Page 05 - Instructor detail"
+                }
+            ],
+            "filesize": 69428,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-coworkers-in-office-during-company-KZUJ6F5"
+        },
+        {
+            "filename": "HEADcoworkers-working-on-project-together-in-office-K92B56E.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/HEADcoworkers-working-on-project-together-in-office-K92B56E.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 95634,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworkers-working-on-project-together-in-office-K92B56E"
+        },
+        {
+            "filename": "business-course-M7FG6CB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/03\/business-course-M7FG6CB-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-07-gallery.json",
+                    "name": "Page 07 - Gallery"
+                }
+            ],
+            "filesize": 55079,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M7FG6CB"
+        },
+        {
+            "filename": "company-coworkers-discussing-ideas-and-QZ8NGDB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/company-coworkers-discussing-ideas-and-QZ8NGDB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faq.json",
+                    "name": "Page 08 - FAQ"
+                }
+            ],
+            "filesize": 89485,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-coworkers-discussing-ideas-and-QZ8NGDB"
+        },
+        {
+            "filename": "company-coworkers-working-in-office-CD86XVY.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokopress.com\/coursekit\/wp-content\/uploads\/sites\/4\/2020\/02\/company-coworkers-working-in-office-CD86XVY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-09-contact.json",
+                    "name": "Page 09 - Contact"
+                }
+            ],
+            "filesize": 75622,
+            "dimensions": [
+                1024,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-coworkers-working-in-office-CD86XVY"
+        }
+    ]
+}
